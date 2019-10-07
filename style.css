@@ -14,7 +14,7 @@ img {
   width: 40%;
 }
 
-nav a {
+nav, a {
   color: pink;
   text-align: center;
   padding-left: 10px;
@@ -25,11 +25,7 @@ figcaption {
   font-size: 12px;
   text-align: center;
 }
-p {
-  width: 800px;
-  text-align: center;
-  display: inline-block;
-}
+
 #featured-property {
   text-align: center;
   display: inline-block;
